@@ -1,5 +1,9 @@
 # `himanshu@workstation`
 
+<p align="center">
+  <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Official Debian logo" width="96" />
+</p>
+
 ![Colorful Linux terminal](assets/linux-terminal-ascii.svg)
 
 ![Linux nerd](https://img.shields.io/badge/THEME-LINUX%20NERD-A81D33?style=flat-square)
