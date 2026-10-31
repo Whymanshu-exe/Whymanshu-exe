@@ -1,5 +1,7 @@
 # `himanshu@workstation`
 
+![Colorful Linux terminal](assets/linux-terminal-ascii.svg)
+
 ![Linux nerd](https://img.shields.io/badge/THEME-LINUX%20NERD-A81D33?style=flat-square)
 
 ```bash
@@ -26,7 +28,7 @@ himanshu@workstation:~$ fastfetch --config profile
       |:_/ |          OS: GNU/Linux
      //   \ \         Role: CS student · SAP consultant
     (|     | )        Focus: backend · Linux · systems
-   /'\_   _/`\        Projects: 4 in progress
+   /'\_   _/`\        Projects: 4
    \___)=(___/        Status: always learning
 
 himanshu@workstation:~$ cat ~/currently-learning

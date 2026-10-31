@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" role="img" aria-labelledby="title description">
+  <title id="title">Colorful Linux terminal</title>
+  <desc id="description">A Linux terminal displaying colored shell prompts and an original ASCII-style workstation banner.</desc>
+  <rect x="1" y="1" width="758" height="268" rx="12" fill="#10131a" stroke="#39404d" stroke-width="2"/>
+  <path d="M2 42h756" stroke="#39404d" stroke-width="2"/>
+  <circle cx="24" cy="22" r="6" fill="#e95420"/>
+  <circle cx="46" cy="22" r="6" fill="#e5b567"/>
+  <circle cx="68" cy="22" r="6" fill="#62c554"/>
+  <text x="380" y="28" fill="#9ba4b5" font-family="monospace" font-size="13" text-anchor="middle">himanshu@workstation: ~</text>
+  <g font-family="monospace" font-size="17" font-weight="700" xml:space="preserve">
+    <text x="36" y="78"><tspan fill="#62c554">himanshu@workstation</tspan><tspan fill="#d8dee9">:</tspan><tspan fill="#5bc0eb">~</tspan><tspan fill="#d8dee9">$ whoami</tspan></text>
+    <text x="36" y="105" fill="#e5b567">himanshu</text>
+    <text x="36" y="142"><tspan fill="#62c554">himanshu@workstation</tspan><tspan fill="#d8dee9">:</tspan><tspan fill="#5bc0eb">~</tspan><tspan fill="#d8dee9">$ uname -o</tspan></text>
+    <text x="36" y="169" fill="#e5b567">GNU/Linux</text>
+    <text x="36" y="206"><tspan fill="#62c554">himanshu@workstation</tspan><tspan fill="#d8dee9">:</tspan><tspan fill="#5bc0eb">~</tspan><tspan fill="#d8dee9">$ printf </tspan><tspan fill="#e95420">"keep learning"</tspan></text>
+    <text x="36" y="233" fill="#e5b567">keep learning</text>
+  </g>
+  <rect x="173" y="251" width="414" height="5" rx="2.5" fill="#39404d"/>
+</svg>
