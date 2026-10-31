@@ -1,44 +1,43 @@
 # `himanshu@workstation`
 
-![Linux-inspired terminal theme](https://img.shields.io/badge/THEME-LINUX%20INSPIRED-A81D33?style=flat-square)
+![Linux nerd](https://img.shields.io/badge/THEME-LINUX%20NERD-A81D33?style=flat-square)
 
-```text
-+--[ DEV-MONITOR ]------------------------- linux profile ------------------+
-|                                                                          |
-|  .----------------------------.   .-----------------------------------.  |
-|  | STACK LOAD                 |   | LOAD AVG (PROFILE METRICS)         |  |
-|  |                            |   |                                   |  |
-|  | C       [########..] core  |   | BUILD      HIGH                    |  |
-|  | Java    [######....] apps  |   | LEARNING   HIGH                    |  |
-|  | Bash    [########..] shell |   | CURIOSITY  UNBOUNDED               |  |
-|  | SAP     [#######...] work  |   | POTENTIAL  STILL COMPILING         |  |
-|  '----------------------------'   '-----------------------------------'  |
-|                                                                          |
-|  .--[ PROCESS TABLE ]-------------------------------------------------.  |
-|  | PID    PR   STATE      COMMAND                    TYPE             |  |
-|  | 0101   HI   FEATURED   E-SHELL                    PROJECT          |  |
-|  | 0102   HI   FEATURED   Inventory Management       PROJECT          |  |
-|  | 0103   MD   FEATURED   Task Tracker               PROJECT          |  |
-|  | 0104   MD   FEATURED   Portfolio                  PROJECT          |  |
-|  | 0105   LO   LEARNING   ABAP                       KNOWLEDGE         |  |
-|  | 0106   LO   LEARNING   Networking                 KNOWLEDGE         |  |
-|  | 0107   LO   LEARNING   Scripting + Algorithms     KNOWLEDGE         |  |
-|  | 0108   LO   LEARNING   System Design              KNOWLEDGE         |  |
-|  | 0109   LO   LEARNING   Autonomous Enterprise      KNOWLEDGE         |  |
-|  '--------------------------------------------------------------------'  |
-|                                                                          |
-|  .--[ TOOL CACHE ]--------------------.  .--[ NETWORK ]---------------.  |
-|  | Linux  Git  C  Java  Bash  SAP     |  | github / linkedin / medium |  |
-|  '------------------------------------'  '----------------------------'  |
-|                                                                          |
-|  uptime: always learning     sleep: not found     metrics: vibes only   |
-+--------------------------------------------------------------------------+
-```
+![Colorful Linux terminal ASCII art](assets/linux-terminal-ascii.svg)
 
 I'm a CS student and SAP consultant interested in backend development, Linux
 systems, system design, and cloud. I like breaking things, then learning how
-they work. Currently learning ABAP, networking, scripting, algorithms, and
-Autonomous Enterprise.
+they work.
+
+## System Load
+
+| Area | Load |
+| --- | --- |
+| C | `████████░░` Core |
+| Java | `██████░░░░` Runtime |
+| Bash | `████████░░` Shell |
+| SAP | `███████░░░` Enterprise |
+
+## Load Average
+
+| Build queue | Learning queue | Curiosity | Potential |
+| --- | --- | --- | --- |
+| High | High | Unbounded | Still compiling |
+
+*Just-for-fun profile metrics, not live system data.*
+
+## Process Table
+
+| PID | Priority | State | Process | Type |
+| ---: | :---: | --- | --- | --- |
+| 0101 | High | Featured | E-SHELL | Project |
+| 0102 | High | Featured | Inventory Management | Project |
+| 0103 | Medium | Featured | Task Tracker | Project |
+| 0104 | Medium | Featured | Portfolio | Project |
+| 0105 | Low | Learning | ABAP | Knowledge |
+| 0106 | Low | Learning | Networking | Knowledge |
+| 0107 | Low | Learning | Scripting and Algorithms | Knowledge |
+| 0108 | Low | Learning | System Design | Knowledge |
+| 0109 | Low | Learning | Autonomous Enterprise | Knowledge |
 
 ## Tech Stack
 
@@ -54,3 +53,6 @@ Autonomous Enterprise.
 
 - [LinkedIn](https://www.linkedin.com/in/himanshu-mishra-389085373)
 - [Medium](https://medium.com/@mishrahimanshu7372)
+
+Currently learning ABAP, networking, scripting, algorithms, and Autonomous
+Enterprise. Uptime: always learning. Sleep: not found.
