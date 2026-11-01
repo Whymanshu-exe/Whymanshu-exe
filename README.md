@@ -1,8 +1,6 @@
 # `himanshu@workstation`
 
-<p align="center">
-  <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Official Debian logo" width="96" />
-</p>
+
 
 ![Colorful Linux terminal](assets/linux-terminal-ascii.svg)
 
