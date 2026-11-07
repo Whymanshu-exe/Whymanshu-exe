@@ -2,7 +2,7 @@
 
 
 
-![Colorful Linux terminal](assets/linux-terminal-ascii.svg)
+
 
 ![Linux nerd](https://img.shields.io/badge/THEME-LINUX%20NERD-A81D33?style=flat-square)
 
